@@ -1,4 +1,4 @@
 # ChatBot
-ChatBot using .Net and OpenAI
+ChatBot using ASP.Net Blasor and OpenAI
 Dont forget to install Newtonsoft.Json
 
